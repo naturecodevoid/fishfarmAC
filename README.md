@@ -18,7 +18,7 @@ pip3 install keyboard #For Python 3.x
 
 It's not necessary you installing both of dependency versions (**Python 2.x** and **Python 3.x**).
 
-## Disclaimer ##
+## Warning ##
 
 If you're on Linux, this script needs to be runned as root or it won't work.
 
